@@ -1,0 +1,29 @@
+Welcome to CoffeeOrder 3000
+How many espresso drinks would you like today (0-3): 0
+OK, so you do not want any espressos today!
+Thank you for using CoffeeOrder 3000
+
+Welcome to CoffeeOrder 3000
+How many espresso drinks would you like today (0-3): 1
+Getting order for espresso drink #1
+What type (1: Americano, 2: Latte, 3: Mocha): 3
+What size (1: Tall, 2: Grande): 2
+Your total is 4.45
+Thank you for using CoffeeOrder 3000
+
+Welcome to CoffeeOrder 3000
+How many espresso drinks would you like today (0-3): 2
+Getting order for espresso drink #1
+What type (1: Americano, 2: Latte, 3: Mocha): 1
+What size (1: Tall, 2: Grande): 2
+Getting order for espresso drink #2
+What type (1: Americano, 2: Latte, 3: Mocha): 3
+What size (1: Tall, 2: Grande): 1
+Your total is 6.80
+Thank you for using CoffeeOrder 3000
+
+Welcome to CoffeeOrder 3000
+How many espresso drinks would you like today (0-3): 5
+Assertion failed: coffees < 4
+
+

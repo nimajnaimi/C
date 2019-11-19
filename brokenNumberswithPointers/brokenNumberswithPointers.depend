@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1507188744 source:c:\users\nima\desktop\school\cs132\brokennumberswithpointers\brokennumberswithpointers.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+

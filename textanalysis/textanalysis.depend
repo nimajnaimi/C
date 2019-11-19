@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1509047288 source:c:\users\nima\desktop\school\cs132\textanalysis\textanalysis.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+

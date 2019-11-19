@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1507605766 source:c:\users\nima\desktop\school\cs132\uparrow\uparrow.c
+	<stdio.h>
+	<assert.h>
+

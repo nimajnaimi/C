@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1510803815 source:c:\users\nima\desktop\school\cs132\countkeywords\countkeywords.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	<string.h>
+

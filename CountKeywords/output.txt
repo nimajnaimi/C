@@ -1,0 +1,14 @@
+Writing to file myoutput.txt
+Reading from C:\Users\Nima\Desktop\School\CS132\CountKeywords\countkeywords.c
+Line 34, WARNING: Need space between ) and {
+Line 37, WARNING: No space before ;
+Line 40, WARNING: Need space after include
+Line 40, WARNING: Put space before <
+Line 43, WARNING: Multiple spaces after int
+***Line numbers in warnings do not include blank lines***
+
+void : 4
+int : 14
+double : 1
+char : 10
+Press any key to exit

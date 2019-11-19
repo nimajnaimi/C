@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1510813939 source:c:\users\nima\desktop\school\cs132\series\series.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

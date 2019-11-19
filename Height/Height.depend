@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1515311021 source:c:\users\nima\desktop\school\cs132\height\height.cpp
+	"height.h"
+	<iostream>
+	<string>
+
+1515310482 c:\users\nima\desktop\school\cs132\height\height.h
+	<string>
+
+1515318708 source:c:\users\nima\desktop\school\cs132\height\ass1.cpp
+	<iostream>
+	"height.h"
+

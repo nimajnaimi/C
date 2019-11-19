@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1512045447 source:c:\users\nima\desktop\school\cs132\registrar\registrar.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+

@@ -1,0 +1,25 @@
+Enter a line (use stop to end): a puzzle
+a: 1
+e: 1
+l: 1
+p: 1
+u: 1
+z: 2
+Enter a line (use stop to end): ignoring capitals like RRRRR and spaces
+a: 5
+c: 2
+d: 1
+e: 3
+g: 2
+i: 4
+k: 1
+l: 3
+n: 3
+o: 1
+p: 3
+r: 1
+s: 3
+t: 1
+u: 1
+z: 2
+Enter a line (use stop to end): stop

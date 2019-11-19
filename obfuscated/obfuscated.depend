@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1507105274 source:c:\users\nima\desktop\school\cs132\obfuscated\obfuscated.c
+	<stdio.h>
+	<math.h>
+	<assert.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1508305225 source:c:\users\nima\desktop\school\cs132\coffeeorder\coffeeorder.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+
